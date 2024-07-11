@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swazz27
 - 👀 I’m interested in .coding and development..
-- 🌱 I’m currently learning ..python.
-- 📫 How to reach me .swwarupplayz06@gmail.com..
+- 🌱 I’m currently learning ..python and DBMS.
+- 📫 How to reach me .swarupplayz06@gmail.com..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .Im student..
 
